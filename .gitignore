@@ -1,0 +1,33 @@
+
+# ROS2 build files
+build/
+install/
+log/
+
+# ROS bags
+*.bag
+*.db3
+*.mcap
+
+# Experiment data
+data/
+rosbags/
+results/
+datasets/
+output/
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
